@@ -13,3 +13,4 @@
 * __Slower Walking Speed:__ Overall, the walking speed is generally slower due to the combination of these factors.
 ## Gait Data in this research
 &nbsp; In the research, I used ”Gait in Parkinson’s Disease” from PhysioNet[1][2]. The dataset includes 16-channel VGRF data, which measures the force exerted by the feet against the ground during walking. 93 patients with Parkinson’s Disease and 73 healthy controls wore 8 force sensors on both their feet and performed walking experiments. Here is the illustration of the possible system that would be able to collect 16-channel VGRF data:
+![Example Image](images/Shoes.png)
