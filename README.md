@@ -81,7 +81,7 @@ $$\psi_{\text{Morlet}}(t) = \pi^{-1/4} e^{i \omega_0 t} e^{-t^2 / 2}$$
 
 &nbsp;This scalogram helps us to see at what coefficient specific wavelet scale has at a specific time. One can observe a walking pattern on these scalograms and there are noticeable differences in them, that can help to detect PD.
 ## 3.4 CNN Model
-&nbsp;Since ML is out of the scope of this course I will shortly describe the DL model I used for my project. So, the CNN classification model[8] has the following structure:
+&nbsp;The CNN classification model[8] has the following structure:
 
 <p align="center">
   <img src=images/CNN.png alt="Alt text">
